@@ -9,7 +9,7 @@ public:
             if (nums[i] != 0) 
             {
                 std::swap(nums[i], nums[left]);
-                left++;
+                left++; 
             }
         }
         return ;
