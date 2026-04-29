@@ -21,4 +21,4 @@ public:
         }
         return (third == LLONG_MIN) ? (int)first : (int)third;
     }
-};
+};4sum
